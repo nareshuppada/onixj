@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Fast XML - Java object mapping for reading and writing EDItEUR Onix XML files, optimized for memory usage, model navigation and speed. The porject offers an Java API and web service to access and manipulate date. Persistence provider is provided.
+Fast XML - Java object mapping for reading and writing EDItEUR Onix XML files, optimized for memory usage, model navigation and speed. Our project offers an Java API and web service to access and manipulate date. Persistence provider is provided.
 
 = Details =
 
