@@ -1,0 +1,1 @@
+Fast XML - Java object mapping for reading and writing EDItEUR Onix XML files, optimized for memory usage, model navigation and speed. The project offers an Java API to access and manipulate Onix data.
